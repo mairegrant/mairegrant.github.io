@@ -6,8 +6,6 @@ published:  true
 
 I participated in the Microsoft AI Skills Fest which coincided with AI Month in Version 1. I participated in Building applications with GitHub Copilot agent mode which was my first forray into using GitHub Copilot agent mode and I was suitably impressed and giving the whole 'vibe coding' thing a go. 
 
-![SkillsFestBadge](/assets/skillsfest.jfif)
-
 This was a fun event as it is my first time being part of a Guiness World Record - I missed the chance to particpate in my local area previously when 33 schools took on an attempt to form the largest human Olympic rings as part of the Olympic torch relay in 2012. 
 
 ![AISkillsFestSuccessfulAttempt](/assets/AISkillsFestComplete.png)
