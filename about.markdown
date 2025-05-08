@@ -4,12 +4,10 @@ title:  "About"
 permalink: 'about/index.html'
 ---
 
-My name is Adam Olin Pash. I grew up in [a small town in Iowa](http://www.cityofharlan.com/), went to school in Iowa City, lived in Los Angeles, CA for eight years, and currently live in Brooklyn, NY.
+I'm Máire Grant, a passionate test automation engineer and techie. Besides all things automata and code I love to travel, paint, run and hike. I am based outside of Belfast. 
+You can find some of my stuff around the internet but this is an attempt to collate everything into one directory. I've written some [Medium](https://medium.com/@mairegrant) articles and Blog posts. I love creative endevours at the bridge between my hobbies - like FashTech where I previously created a light up skirt or made my own programming language croc jibbitz after a lack thereof to buy online. 
 
-I've done a lot of things on the internet, but if you've heard of any of them, it's probably [Lifehacker](http://lifehacker.com), which I initially wrote for (2005-2008) and then ran (2009-2012). I've also written for a number of other publications, like Wired, Popular Science, and PC World, and I've written [a couple of books](http://www.amazon.com/Adam-Pash/e/B001JRYOY6/).
+I've worked in several different environments from start up, scale up and corportate. From local firms to international household names such as the Duth powerhouse Philips. I've worked across different domains such as sports, education, private and public sector, finance, health and life sciences and insurance. 
 
-Above all else, I love building things. I'm currently building things with code, focusing on tools that streamline the way you do things. Here's a [non-comprehensive list of projects](/projects) I've built in the the past, but I'm always hacking on something new.
 
-I've worked for myself, in corporate environments, and in startups. I recently completed a three-month fellowship at [Hacker School](https://www.hackerschool.com/), a writers' retreat for programmers, where I focused on machine learning and multimedia projects.
-
-You can follow me [on Twitter](https://twitter.com/adampash) or check me out [on GitHub](https://github.com/adampash/). You can email me at \[first.last\] at gmail.com and I'll get back to you asap.
+This blog template is based on Adam Pash's blog - find him here [on GitHub](https://github.com/adampash/). 
