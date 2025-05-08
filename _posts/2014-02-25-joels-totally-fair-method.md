@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Joel’s Totally Fair Method to Divide Up The Ownership of Any Startup
-published:  true
+published:  false
 ---
 
 Last year I read a post by [Joel Spolsky](http://www.joelonsoftware.com/) regarding startup equity on Stack Overflow's now-defunct [startup site](http://area51.stackexchange.com/proposals/6243/startup-business#23326) and found it to be helpful. While looking for the post earlier today to send to a friend, I learned that the site's since been discontinued. Luckily the good people at SO offer a [data dump of all the Qs and As](http://cdn.sstatic.net/area51/datadumps/122013%20Answers%20Onstartups.zip) from their discontinued sites, so I was able to hunt down this particular Q and A and am republishing it here for my friend and anyone who might be interested in reading it.

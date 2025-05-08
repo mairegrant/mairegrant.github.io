@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Hacker School
-published:  true
+published:  false
 ---
 
 I took two introductory Computer Science courses between 2002 and 2003 while attending college at the University of Iowa. I hadn't declared a major, loved working with computers, and hoped that that might translate into a career, of some sort, in technology. Or at least a major, which — after two undeclared years — was about as far ahead as I was planning at the time.

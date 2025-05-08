@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Everything I've tried to stop my texts from disappearing into iMessage
-published:  true
+published:  false
 ---
 
 I've gotten many, many helpful emails and tweets with tips for how to fix my [iMessage purgatory problem](/imessage-purgatory/) (people are great). Unfortunately, I've already tried everything that people have suggested (so far, at least).
