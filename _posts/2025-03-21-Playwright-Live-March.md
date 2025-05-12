@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Playwright Live - Community updates and More: March
+title:      "Playwright Live - Community updates and More: March"
 tags: events, social, testing, playwright
 published:  true
 ---
