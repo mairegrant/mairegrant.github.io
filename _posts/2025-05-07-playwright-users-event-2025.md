@@ -1,6 +1,8 @@
 ---
 layout:     post
 title:      "Playwright 2025 User's Event"
+date:   2025-05-07 20:28:42
+tags: events, social, testing, playwright
 published:  true
 ---
 
