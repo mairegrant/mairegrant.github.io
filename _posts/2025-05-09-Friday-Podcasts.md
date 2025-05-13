@@ -12,6 +12,9 @@ It's Friday and what a week it has been - thanks to the apparance of the sun! Th
 
 ***So what have I been listening to this week?*** 
 - Ministry of Testing - This Week In Testing  *TWiT-89 Testers like to talk*
+- The Final Girls: A Horror Film Podcast - Machines 03 . Frankenstein and the origins of tech horror 
+- The AI Daily Brief (Formerly the AI Breakdown): Artifical Intelligence News and Analysis - 7 Lessons for Enterprise AI
+
 
  https://open.spotify.com/episode/1c4bNXwSVHg125pqAtNG29?si=wnTPZz6mSQ6Q-gA0qzbzJQ
 
