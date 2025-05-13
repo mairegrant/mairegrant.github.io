@@ -3,6 +3,14 @@ layout:     post
 title:      Attributes for Grouping Defects
 published:  true
 ---
+Popping more thoughts from my head online! 
+Today's topic - Defect Grouping Attributes! This sparked so much interest for me especially given my dissertation 'An Attribute Based Fashion Search', it brought up a lot of interest and similarities in finding patterns and correlations! 
+
+I didn't go too deep in this article, focusing on identification of as many groupable attributes as I could gather. I will for sure be revising this topic and hoping to answer some unanswered questions! 
+
+Bug Prediction as a Service (BPaaS) is something I will be keeping a close eye on as I think there is so much learning to be done in this area!  
+
+Let me know, is there anything I have missed?
 
 In this article I may refer to defects as bugs, problems and issues interchangeably.
 

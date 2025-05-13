@@ -30,3 +30,7 @@ Last, if you've got an Android phone, you can make gifs in Chrome for Android us
 If you're interested in giving it a try, it's just one click away (no login required). If you've got feedback, please [don't hesitate to share](mailto:hi@andtheniwaslike.co?subject=You%20asked%20for%20it).
 
 <h2 style="text-align: center"><a href="https://andtheniwaslike.co/gifs/new">I want to make a gif!</a></h2>
+
+[^Patric]: Patric provided the initial designs for [a handful of Gawker sites](http://houseofpretty.com/) (update: make that [most of them](https://twitter.com/patricking/status/393868252222205952)), including Defamer (2004), Jezebel (2007) and io9 (2008).
+
+> Hacker School is a three-month, full-time school in New York for becoming a better programmer. We're [free as in beer](http://en.wikipedia.org/wiki/Free_as_in_beer), and provide space, a little structure, time to focus, and a friendly community of smart builders dedicated to self-improvement.
