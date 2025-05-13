@@ -1,8 +1,7 @@
 ---
 layout:     post
 title:      TAU Course - Continuous Testing with Azure DevOps for testing
-date:   2025-05-07 20:28:42
-tags: events, social, testing, playwright
+date:   2025-03-07
 published:  true
 ---
 
