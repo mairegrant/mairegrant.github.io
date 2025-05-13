@@ -11,7 +11,7 @@ Brushing up on Continuous Testing with Azure DevOps for testing, I found this co
 
 Topics covered include adding tests, publishing results, extracting test artifacts, project configurations, tasks groups, parallel test execution, handling failing and flaky tests and multi stage pipelines. 
 
-You can check out the roadmap for Azure DevOps updates and improvements from Microsoft here: https://lnkd.in/e5484U26 
+You can check out the roadmap for Azure DevOps updates and improvements from Microsoft here: [Azure DevOps Roadmap](https://learn.microsoft.com/en-us/azure/devops/release-notes/features-timeline)
 
 Some upcoming features around Azure Test Plan improvements worth keeping up to date on, excited to see how the test runs can integrate more seamlessly around Test Plans and Test Cases. 
 
