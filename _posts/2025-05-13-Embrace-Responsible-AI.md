@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Microsoft Learn: Embrace Responsible AI Principles & Practices 
+title:      "Microsoft Learn: Embrace Responsible AI Principles & Practices"
 published:  true
 ---
 
