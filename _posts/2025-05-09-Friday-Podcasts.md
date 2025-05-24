@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Friday Podcasts 
-published:  false
+published:  true
 ---
 
 ### What am I listening to this week? 
