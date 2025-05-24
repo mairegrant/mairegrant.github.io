@@ -6,7 +6,7 @@ published:  true
 
 ![ResponsibleAI](/assets/bugs.png)
 
-Today I am reflecting on freelance testing in QA. My experience with QA Testing is limited in part due to opportunity and being conscious of my testing responsibilities in full time employment. 
+Today I am reflecting on freelance testing in QA. My experience with freelance QA testing is limited in part due to opportunity and being conscious of my testing responsibilities in full time employment. 
 
 I have had the opportunity to take part in user surveys, UAT testing for Bosch and at Queen's University where I took part in testing with pizza and Amazon vouchers. I would love the opportunity to work with more brands for collaboration in the e-commerce and tech space even on a voluntary basis in order to expand my skillset. 
 
