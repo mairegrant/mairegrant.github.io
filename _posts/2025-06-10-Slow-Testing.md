@@ -39,14 +39,7 @@ Fast fashion has a massive impact on the environment. So too, environments that 
 ## Slow Fashion
 The opposite of fast fashion is slow fashion where high quality, thoughful materials, ethics, sustainability, integrity and stability and long-term impact are prioritised en-masse production. 
 
-|Fast Fashion |Slow Fashion  | Slow Tech Equivalent | 
-|--|--|--|
-|Disposablity  |Made to last, reusable, repairable  | Scalable and sustainable codebases that can be scaled up or down | 
-|Low Quality Materials | Higher quality materials, intentionally selected for durability and sustainability | Well thought out code and design patterns, efficient algorithms
-|Trend-driven | Timeless, designed with longer term in mind  | Maintainable code and architecture principes |
-|Exploitative practices | Fair wages, ethical manufacturing practices| Transparent development practices |
-|High environmental impact | Sustainable manufacturing techniques, reduce environmental impact| Imposed standards (data, laws), ethical, no biased systems
-|Frequent releases | Reduce the number of products produced, intentional releases| Intentional releases, maximise delivery, coordinate features |
+![SlowTechTable](/assets/slowtesttable.png)
 
 ## Examples of "Slow" Thinking in a Tech World 
 - Don't reinvent the wheel, use open source when you can
@@ -78,17 +71,6 @@ As a tester how can I implement these practices in my day-to-day to try and make
  - Write code with future requirements in mind so that less rework is
    needed.
 
-The "Slow Fashion" Tester Mindset
-
-Quality > Speed 
-
-Longevity > Trends (maintainable tests, reusable tools)
-
-Ethics > Lack of Transparency (Question shady design practices and data use) 
-
-Sustainability > Burnout (Balance, positivity and healty workloads for long-term efficiency) 
-
-Craftmanship > Shortcuts (Take pride in delivering valuable skilled work) 
 
 ### References and Further Reading
 [1] https://www.carbontrust.com/news-and-insights/insights/smart-phones-smart-choices-harnessing-purchasing-power-to-reduce-the-carbon-impact-of-our-phones
