@@ -4,84 +4,75 @@ title:      "Slow Testing"
 published:  true
 ---
 
-# What is fast tech - an analysis of fast fashion vs software development
+# What is fast tech - what can we learn from fast fashion in tech? 
 
-By now everyone is aware of the repercussions of fast fashion and over consumerism but what learning can we apply from this to software development and is it too going in the same direction? 
+By now we are all aware of the repercussions of fast fashion and over consumerism but what learnings can we apply from this to software development and is it too going in the same direction? 
 
 ## Overproduction and Overconsumption 
-We have seen the rise of micro-trends in fashion, with more means than ever before of influencing and advertising to people. These micro-trends mean new products are being pushed out as fast as possible and people are consuming beyond their means. 
+We have seen the rise of micro-trends in fashion, with more means than ever before of influencing and advertising to people. These micro-trends mean new products are being pushed out as fast as possible and that people are consuming beyond their means. 
 
-Tech companies release new models, a new smartphone, wearables and devices incrementally even if little to nothing has changed knowing that people will buy the new products even if their existing devices still work. 
+Tech companies often release new models of devices incrementally even if little to nothing has changed knowing that people will buy these new products even if their existing devices still work. 
 
-Hype around product launces such as Apple events create a fan followed culture that supports this unsustainable consumption, having the latest smartphone or device has became about being a trend or status symbol as much as it is for purpose. 
+Mass hype around product launces such as regular Apple events create a fan followed culture that supports an unsustainable consumption, making having the latest smartphone or device a trend or status symbol as much as it is for purpose. 
 
 Upon the purchasing a new smartphone, most of its carbon impact is locked in before the device is turned on – it costs around 60 kgCO2e to manufacture, package and ship the product, equivalent to approximately 350 km driven in an average petrol car. [1]
 
-Constantly changing landscape of frameworks, languages and paradigms come with a cost and rework leads to increased time and ewaste. (e.g., from jQuery > Angula > React ... etc). Engineers are prompted to keep up to date and to chase new tools in some cases over mastering fundamental principles and maintaining legacy systems (where feasible). 
+A consistently changing landscape of frameworks, languages and methodologies come with a cost associated and rework leads to increased time and electronic waste. (e.g., going from jQuery to Angula to React ... and so on). Engineers are prompted to keep up to date and to chase new tools in some cases over mastering the fundamental underlying principles and over maintaining legacy systems (where feasible). 
 
-Companies often add additional features that are not necessary, sometimes to show that changes are occurring but without considering the impact or need. This adds complexity and makes systems less maintainable as a whole. 
+Many companies often add additional features that are not necessary, at times to to show that changes are occurring but without consideration for the impact or actual user need in turn increasing complexity and decreasing maintainability.
 
 ## Disposability 
-In fast-fashion clothes are often not built to last and are thrown away after a few years, so too, software products are developed and discarded at a fast pace leaving artefacts behind that consume resources, cause bloat and encouraging speed over sustainability. The result is wasted effort, duplication and throwaway culture. 
+In fast-fashion clothes are not built to last, unsustainable techniques are used and the byproduc is that they are thrown away after a few years (or less), so too, software products are developed and discarded at an ever increasing speed leaving artefacts behind that consume resource, bloat our systems and encourage a mindset of speed over sustainability. This results in duplication and a promotion of throwaway culture.
 
-"If it breaks we can just rebuild it" - a lack of consequence means that care is not taken. Speed, novelty and short term wins are prioritized over longevity and thoughtful design leading to throwaway systems, more MVPs than necessary that cannot be maintained. 
+A lack of percieved consequence means that care is not taken. Speed, novelty and short term wins are valued over longevity, sustainability and ly crafted designs. Throwaway systems become the norm, more MVPs than necessary are produced that cannot be maintained. 
 
-High-churn software and features can focus on speed over quality craftsmanship. 
+Software begins to focus on speed over quality craftsmanship. 
 
-## Burnout Culture 
-It is no secret that fast fashion can create harsh and undesirable working conditions putting employees and skilled individuals under pressure to deliver faster. The same principle applies to developers and testers being put under pressure to ship faster and keep up with growing demands and unrealistic expectations. 
+## Burnout  
+It is no secret that fast fashion can create harsh and undesirable working conditions putting employees and skilled individuals under pressure to deliver faster. The same principle applies to software teams in high pressure environments being pressured to deliver faster and keep up with growing demands and unrealistic expectations. 
 
-Automation in the form of machinery for manufacture and AI tools and automation in software devalue skilled individuals. 
-As a tester I love to "move fast and break things" in the right context and with purpose but this can bleed into an emphasis on speed over stability. 
+Automation in the form of machinery for manufacture and AI tools and automation in software devalue skilled individuals. As a tester I love to "move fast and break things" in the right context and with purpose but this can bleed into an emphasis on speed over stability that we are becoming familiar with. 
 
 ## Environmental and Ethical Impact 
-Fast fashion has a massive impact on the environment. So too, environments that are always up (even when they don't need to be) have an environmental impact. Software relies on massive energy consumption which under the hood can have questionable data practices and exploitative use of crowd labour (e.g AI labelling and training). 
+Fast fashion has a massive impact on the environment. So too, environments that are always up (even when they don't need to be) have a negative environmental impact. Software relies on massive energy consumption overheads which under the hood can lead to questionable practices (think data and crowd labour).
 
 ## Slow Fashion
-The opposite of fast fashion is slow fashion where quality, materials, ethics, sustainability, integrity and longevity are prioritised over mass production. 
+The opposite of fast fashion is slow fashion where high quality, thoughful materials, ethics, sustainability, integrity and stability and long-term impact are prioritised en-masse production. 
 
 |Fast Fashion |Slow Fashion  | Slow Tech Equivalent | 
 |--|--|--|
-|Disposable  |Made to last, reusable, repairable  | Scalable and sustainable codebases that can be scaled up or down | 
-|Low Quality Materials | Higher quality materials, intentionally selected, durable, sustainable | Well thought out code and design patterns, efficient algorithms
-|Driven by trends | Timeless, designed with longevity in mind  | Maintainable code and architecture |
-|Exploitative practices | Fair wages, ethical practices| Transparent development practices and ownership
-|High environmental impact | Sustainable manufacture, reduced environmental impact| Open standards, ethical and fair data use, no biased systems
-|Frequent releases | Reduced number of products, intentional releases| Lean, efficient resource usage, intentional releases |
+|Disposablity  |Made to last, reusable, repairable  | Scalable and sustainable codebases that can be scaled up or down | 
+|Low Quality Materials | Higher quality materials, intentionally selected for durability and sustainability | Well thought out code and design patterns, efficient algorithms
+|Trend-driven | Timeless, designed with longer term in mind  | Maintainable code and architecture principes |
+|Exploitative practices | Fair wages, ethical manufacturing practices| Transparent development practices |
+|High environmental impact | Sustainable manufacturing techniques, reduce environmental impact| Imposed standards (data, laws), ethical, no biased systems
+|Frequent releases | Reduce the number of products produced, intentional releases| Intentional releases, maximise delivery, coordinate features |
 
 ## Examples of "Slow" Thinking in a Tech World 
-- Open source stewardship, not just needless creation (don't reinvent the wheel) 
-- Sustainable UX and design practices, app design that doesn't encourage addiction or endless scrolling - less is more mentality (where applicable). 
-- Software that focuses on longevity - Maintain and improve existing systems over rewriting them where possible 
-- Green computing - Reduce cloud and ewaste, energy use and reduce carbon emissions. 
+- Don't reinvent the wheel, use open source when you can
+- Sustainable design practices, less is more mentality (where applicable), systems that don't promote overconsumption of media and information, digital clutter. 
+- Longevity focused softwares - Maintain and improve the existing systems over rewriting if it is possible 
+- Green computing practices - Reduce ewaste, energy use and in turn reduce carbon emissions. 
 
 ## Action - How can I apply the principles of "slow-tech" in my everyday role? 
 As a tester how can I implement these practices in my day-to-day to try and make a difference? 
 
 ### Quality Over Speed
-
- - Don't adopt a fast-fashion mindset, don't test just enough to get it 
-   out the door, test with purpose and intention. Treat testing as a   
-   craft, being thoughtful and keeping long term reliability,   
-   performance and scalability in mind.
- - Advocate for comprehensive regression testing, look for edge cases and negative scenarios outside of the happy path. 
- - Push back on unrealistic testing timelines that sacrifice thorough test coverage. 
- - Let others know when you spot tech-debt that may be detrimental to longevity and long term stability.
+- Don't just do enough to get it out the door, test with purpose and intention. Treat testing as a craft and keep slow fashion principles in mind, e.g for performance, scalability. 
+- Promote regular exploratory and regression testing, search for negative scenarios and edge cases. 
+- Challenge unrealistic timelines for testing that impact ability to test thoroughly and with full coverage. 
+- Flag potential tech debt early on or anything that may be detrimental to the system making it unreliable. 
 
 ### Reduce and Reuse
-
- - Reduce the need for constant rewrites, look out for smart reuse, are
-   there libraries, data and artefacts that can be shared among teams
-   and team members?
+- Reuse libraries, paradigms, test data and artefacts among team members and teams to reduce maintainability and time to create. 
  - Can we share documentation and principles that help us to align?
 
-### Foster a Culture of Craftsmanship and Inclusivity 
+### Champion Craftsmanship and Inclusivity 
 
  - Quality over quantity. Treat testing as the craft and skill that it
    is. Take care in crafting thoughtful test scripts and test automation
    that requires less maintenance and can be scaled.
- - Shift left, look at pull requests from a testing perspective, are we
-   building testable code or are we using testing as a tickbox.
+ - Shift left, look at pull requests, unit tests, UI/UX designs from a testing perspective, are we building testable code and systems or are we using testing as a tickbox.
  - Consider accessibility, usability and edge cases early in order to
    reduce rework for unconsidered non-functional requirements.  
  - Write code with future requirements in mind so that less rework is
@@ -91,13 +82,13 @@ The "Slow Fashion" Tester Mindset
 
 Quality > Speed 
 
-Longevity > Trendiness (maintainable tests, reusable tools)
+Longevity > Trends (maintainable tests, reusable tools)
 
 Ethics > Lack of Transparency (Question shady design practices and data use) 
 
-Sustainability > Burnout (Health workloads and long-term focus) 
+Sustainability > Burnout (Balance, positivity and healty workloads for long-term efficiency) 
 
-Craftmanship > Shortcuts (Take pride in delivering valuable work) 
+Craftmanship > Shortcuts (Take pride in delivering valuable skilled work) 
 
 ### References and Further Reading
 [1] https://www.carbontrust.com/news-and-insights/insights/smart-phones-smart-choices-harnessing-purchasing-power-to-reduce-the-carbon-impact-of-our-phones
