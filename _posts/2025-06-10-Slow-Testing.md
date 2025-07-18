@@ -4,8 +4,6 @@ title:      "Slow Testing"
 published:  true
 ---
 
-![ResponsibleAI](/assets/bugs.png)
-
 # What is fast tech - an analysis of fast fashion vs software development
 
 By now everyone is aware of the repercussions of fast fashion and over consumerism but what learning can we apply from this to software development and is it too going in the same direction? 
