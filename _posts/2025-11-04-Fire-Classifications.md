@@ -7,6 +7,8 @@ published:  true
 
 # Can fire cause be determined from images from the scene?
 
+![PredictionImage](/assets/prediction.png)
+
 I'm an avid true crime watcher and a tester who works hard trying to notice the unnoticeable. I experimented with Jupyter notebooks in uni but haven't attempted anything in this area for a long time. 
 
 I decided I wanted to attempt to classify images based on existing image models and a custom data set, set it up, gather data and develop this skill set more. The subject I settled on was fires - I wanted something niche that way the possibility of stumbling onto something useful could be greater. 
@@ -45,4 +47,6 @@ It's hard to say how much can be inferred from exterior photos alone. The result
 
 ## So can fire cause be determined from images from the scene? 
 Potentially but not from this model as it is too unreliable. Something like this should only be used a supplementary aid should a dataset large enough garner more accurate and reliable results. Additional sources of investigation will always be needed such as checking the scene for accelerants, signs of forced entry and other indicators. 
+
+Playabout with the code here: https://github.com/mairegrant/fireClassification/blob/main/Fire_Classification_Arson_Accidental.ipynb
 
