@@ -43,6 +43,6 @@ On top of increasing the amount of images in the data set, other things could be
 
 It's hard to say how much can be inferred from exterior photos alone. The results were inaccurate, when 6 new images were fed into predict classification, 4 were wrong and 2 were right. It predicted accidental every time so it is hard to know if it got the 2 right or it was a matter of change picking accidental each time. 
 
-So can fire cause be determined from images from the scene? 
+## So can fire cause be determined from images from the scene? 
 Potentially but not from this model as it is too unreliable. Something like this should only be used a supplementary aid should a dataset large enough garner more accurate and reliable results. Additional sources of investigation will always be needed such as checking the scene for accelerants, signs of forced entry and other indicators. 
 
